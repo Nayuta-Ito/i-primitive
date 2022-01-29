@@ -11,7 +11,7 @@ body {
 }
  
 .tab_class {
-  width: calc(100%/5);
+  width: calc(100%/6);
   height: 50px;
   background-color: #66ccff;
   line-height: 50px;
@@ -38,4 +38,9 @@ input:checked + .tab_class {
  
 input:checked + .tab_class + .content_class {
   display: block;
+}
+
+.note {
+  font-size: 60%;
+  margin: 0px;
 }
