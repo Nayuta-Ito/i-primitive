@@ -3,8 +3,8 @@ body {
 }
 
 .area {
-  padding-left: 200px;
-  padding-right: 200px;
+  padding-left: 15%;
+  padding-right: 15%;
   margin: auto;
   flex-wrap: wrap;
   display: flex;
